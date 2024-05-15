@@ -1,0 +1,15 @@
+<package>
+    <description brief="mars_skydome_plugin">
+      Mars SkyDome Plugin
+   </description>
+    <maintainer>Malte/malte.langosz@dfki.de</maintainer>
+    <author>Malte/malte.langosz@dfki.de</author>
+    <depend package="simulation/lib_manager" />
+    <depend package="simulation/data_broker" />
+    <depend package="simulation/gui_collection/main_gui" />
+    <depend package="simulation/utils" />
+    <depend package="simulation/graphics_collection/osg_material_manager" />
+    <depend package="tools/configmaps" />
+    <depend package="simulation/mars2/mars_interfaces" />
+    <tags>needs_opt</tags>
+</package>
