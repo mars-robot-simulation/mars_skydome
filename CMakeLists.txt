@@ -1,7 +1,7 @@
+cmake_minimum_required(VERSION 3.10)
 project(mars_skydome)
 set(PROJECT_VERSION 1.0)
 set(PROJECT_DESCRIPTION "Mars Skydome")
-cmake_minimum_required(VERSION 2.6)
 include(FindPkgConfig)
 
 find_package(lib_manager)
